@@ -1,15 +1,10 @@
-body{
-    font-family: Arial;
-    background:white;
-}
-
-h1{
-    color:green;
-}
-
 button{
+    display:block;
+    margin:20px auto;
     background:green;
     color:white;
-    padding:15px;
+    border:none;
+    padding:15px 30px;
+    font-size:18px;
     border-radius:8px;
 }
